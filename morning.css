@@ -1,0 +1,26 @@
+a{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+}
+.footer{
+	margin-top: auto;
+	background-color: black;
+}
+.footer:hover;
+.ab ul{
+	display: flex;
+	justify-content: center;
+}
+.ab ul li a{
+	color: white;
+	margin: 25px;
+
+}
+ab ul li a:hover{
+	background-color: grey;
+	.copy p{
+		color: blue;
+	}
+}
